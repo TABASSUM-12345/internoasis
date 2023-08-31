@@ -1,0 +1,150 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing:border-box;
+    background-color:palegoldenrod;
+   
+}
+
+
+.container{
+
+
+
+ display:flex;
+flex-direction:column;
+text-align:justify;
+
+}
+
+.pic img {
+    width:300px;
+    height:320px;
+    border:8px solid black;
+    top:240px;
+    left:55%;
+    position:absolute;
+   
+   
+}
+
+    
+.name h1{
+    font-size:60px;
+    font-weight:bold;
+    color:black;
+    text-transform:Capitalize;
+    text-align:center;
+    top:20px;
+    left:20px;
+    position:relative;
+   }
+
+
+.one{
+    top:450px;
+    left:120px;
+    text-align:left;
+    font-size:20px;
+    font-weight:bold;
+    color:black;
+    position:absolute;
+   
+}
+.quote{
+    font-size:30px;
+    top:40px;
+    font-family: 'Inter', sans-serif;
+    position:relative;
+    font-weight:bold;
+    text-transform:Capitalize;
+    color:rgb(235, 19, 19);
+    text-align:center;
+}
+.mission{
+    font-size:30px;
+    text-transform:capitalize;
+    font-family: 'Inter', sans-serif;
+    color:#1430cc;
+    top:470px;
+    left:35px;
+    text-align:justify;
+    position:relative;
+}
+.about{
+    top:110%;
+    left:50px;
+    position:absolute;
+}
+.timeline p{
+    font-size:50px;
+    font-weight:bold;
+    text-align:left;
+    top:100%;
+     
+    position:relative;
+    
+    color:red;
+}
+.timeline{
+    top:130%;
+    left:60px;
+    position:absolute;
+    
+}
+
+.timeline ul li{
+    padding:8px;
+    
+
+    font-family: 'Inter', sans-serif;
+}
+.tribute h2{
+    font-size:50px;
+    font-weight:bold;
+    text-align:left;
+    color:rgb(235, 19, 19);
+
+}
+.tribute{
+    font-size:20px;
+    
+    top:255%;
+    left:50px;
+    position:absolute;
+    text-align:justify;
+    text-transform:Capitalize;
+   
+}
+
+.five p{
+    font-size:50px;
+    font-weight:bold;
+    text-align:left;
+    top:-55px;
+    position:relative;
+    
+    color:red;
+}
+.five{
+    
+    top:330%;
+    left:50px;
+    position:absolute;
+}
+
+.five ul li{
+    padding:10px;
+    top:-45px;
+    position:relative;
+    font-family: 'Inter', sans-serif;
+}
+
+.mother img{
+    width:400px;
+    height:300px;
+    border:8px solid black;
+    top:2000px;
+    left:440px;
+    position:relative;
+}
